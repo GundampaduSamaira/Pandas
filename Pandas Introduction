@@ -1,0 +1,30 @@
+Introduction to Pandas
+pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
+built on top of the Python programming language.
+
+Pandas vs Python
+Python – A general-purpose programming language used for everything — web apps, AI, automation, and more.
+
+Pandas – A powerful data analysis library built on Python, made for handling, cleaning, and analyzing data easily.
+
+Key Differences:
+
+Nature:
+
+Python → All-rounder language
+Pandas → Data expert inside Python
+
+Purpose:
+Python → Builds any type of program
+Pandas → Makes data handling fast & simple
+
+Data Structures:
+Python → Lists, Dictionaries, Tuples
+Pandas → DataFrame (table-like), Series (1D labeled data)
+
+Functionality:
+Python → Needs extra libraries for analysis
+Pandas → Built-in tools for cleaning, merging, and analyzing data
+
+In short:
+Python is the base. Pandas is the power tool that makes data work easy, fast, and fun! 
